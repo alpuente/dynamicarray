@@ -1,4 +1,3 @@
-package createschema;
 
 /**
  * Created by APuente on 10/9/2015.
